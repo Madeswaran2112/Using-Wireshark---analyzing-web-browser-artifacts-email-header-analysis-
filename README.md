@@ -111,9 +111,9 @@ o For POP3: tcp.port == 110
 o For SMTP: tcp.port == 25 or 587
 o For IMAP: tcp.port == 143 or 993
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 122654" src="https://github.com/user-attachments/assets/55518584-41e6-4722-832d-6b9027cb41aa" />
 
 
-![Uploading Screenshot 2025-10-04 122654.png…]()
 
 
 3. Locate email data:
