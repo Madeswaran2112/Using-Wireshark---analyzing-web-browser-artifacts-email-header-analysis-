@@ -68,6 +68,7 @@ client (e.g., Gmail via browser or Thunderbird).
 
 
 
+<img width="1593" height="1058" alt="Screenshot 2025-10-04 122124" src="https://github.com/user-attachments/assets/f6708345-f026-4254-b910-eff909703ea2" />
 
 
 4. Stop the capture once done.
@@ -78,7 +79,8 @@ client (e.g., Gmail via browser or Thunderbird).
 browser traffic.
 
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-04 091620" src="https://github.com/user-attachments/assets/20ce6cac-6de8-4bcc-881b-3c242bee18c5" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 122203" src="https://github.com/user-attachments/assets/3e1487b9-2861-41a6-85e4-b3a2ae03ab7c" />
+
 
 
 
@@ -89,15 +91,17 @@ headers.
 o Follow TCP Stream to reconstruct page request flow:
 ▪ Right-click a packet → Follow → TCP Stream.
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-04 091650" src="https://github.com/user-attachments/assets/18377f1a-f96e-4bd3-a088-e8b02cbfefb2" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 122654" src="https://github.com/user-attachments/assets/363cf0b1-f8de-4ffb-8063-a841344c214b" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 122310" src="https://github.com/user-attachments/assets/5fdcdcf9-befa-4481-a150-f77a090ab706" />
 
 
 Analyze DNS Queries:
 o Filter: dns
 o Reveal domains the browser tried to resolve.
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 122613" src="https://github.com/user-attachments/assets/ab87a646-36ac-4b00-8afb-a97e3fd99225" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-04 091714" src="https://github.com/user-attachments/assets/9cb691dd-834b-4541-9d83-a180ce526063" />
 
 
 
@@ -108,7 +112,8 @@ o For SMTP: tcp.port == 25 or 587
 o For IMAP: tcp.port == 143 or 993
 
 
-<img width="1306" height="673" alt="Screenshot 2025-10-04 091921" src="https://github.com/user-attachments/assets/f650c247-e65e-4808-b727-f39aa109baaf" />
+
+![Uploading Screenshot 2025-10-04 122654.png…]()
 
 
 3. Locate email data:
@@ -118,7 +123,8 @@ unencrypted.
 
 
 
-<img width="1910" height="471" alt="Screenshot 2025-10-04 092315" src="https://github.com/user-attachments/assets/37f6f612-5900-4f44-8274-008b036c9411" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 123001" src="https://github.com/user-attachments/assets/d3d60bc5-450a-4766-ab5a-574c7cb04294" />
+
 
 
 5. Extract Email Header Fields:
@@ -126,8 +132,8 @@ o Analyze From, To, Subject, Date, Message-ID, and relay servers used
 in sending the email.
 
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 122930" src="https://github.com/user-attachments/assets/0bcaf15e-2968-405b-8ac9-dd3f5bfb5964" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-04 092141" src="https://github.com/user-attachments/assets/16df8c95-b1e8-4293-8d73-cbdbfb92472f" />
 
 
 ## OUTPUT:
