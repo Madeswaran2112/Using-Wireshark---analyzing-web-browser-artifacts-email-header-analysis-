@@ -1,4 +1,4 @@
-<img width="952" height="1079" alt="Screenshot 2025-10-04 091420" src="https://github.com/user-attachments/assets/d196b16b-f4a5-4dee-be64-b1309b8f9c72" /># Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
+# Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
 ## AIM:
 To use Wireshark to analyze web browser activities and inspect email headers from captured network traffic.
 ## Architecture Diagram:
